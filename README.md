@@ -1,7 +1,8 @@
-**This assignment is part of The Ultimate React Course on Udemy.
+**This assignment is part of The Ultimate React Course on Udemy**
  
  
-** Learnt about: Components, props, JSX **
+**Learnt: Components, props, JSX**
+**Built with: React**
 
 Live link:
 
